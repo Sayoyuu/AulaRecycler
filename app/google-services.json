@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071638935319",
+    "project_id": "cadastro-de-produtos-c3c05",
+    "storage_bucket": "cadastro-de-produtos-c3c05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071638935319:android:e4d1c897712dcd0adbe952",
+        "android_client_info": {
+          "package_name": "com.example.aularecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071638935319-3ht271q3jhqsg8gmv9k5qu73guqa23o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vFVMCoVBSBCpXlHWpUVk7tyGTRsRgII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071638935319-3ht271q3jhqsg8gmv9k5qu73guqa23o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
